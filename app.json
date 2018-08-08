@@ -6,7 +6,8 @@
   "keywords": ["node", "express", "static"],
   "env": {
     "HOME_PAGE_MESSAGE": {
-      "description": "Message to show on the homepage."
-    },
+      "description": "Message to show on the homepage.",
+      "value": "Hello World!"
+    }
   }
 }
